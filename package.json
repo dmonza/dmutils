@@ -1,0 +1,15 @@
+{
+  "name": "dmutils",
+  "version": "1.0.0",
+  "description": "A collection of function for general utility.",
+  "main": "Utils.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "general",
+    "utility"
+  ],
+  "author": "Daniel Monza",
+  "license": "MIT"
+}
