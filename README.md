@@ -1,7 +1,7 @@
 dmutils
 =======
 
-A collection of function for general utility. Some of them were recopiled from other users published on internet.
+A collection of functions for general utility. Some of them were recopiled from other users published on internet.
 
 ## Install
 npm install dmutils --save
