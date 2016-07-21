@@ -1,8 +1,8 @@
 {
   "name": "dmutils",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A collection of function for general utility.",
-  "main": "Utils.js",
+  "main": "./utils.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -10,6 +10,10 @@
     "general",
     "utility"
   ],
-  "author": "Daniel Monza",
-  "license": "MIT"
+  "author": {"name": "Daniel Monza", "url": "http://danielmonza.uy"},
+  "license": "MIT",
+  "repository" :
+  { "type" : "git"
+  , "url" : "https://github.com/dmonza/dmutils"
+  }
 }
